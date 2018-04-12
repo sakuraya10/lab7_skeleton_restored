@@ -1,0 +1,11 @@
+!.gitignore
+!*.v
+!*.tex
+!*.tex
+!*.csv
+!*.qpf
+!*.qsf
+!*.mif
+!*.sv
+
+
